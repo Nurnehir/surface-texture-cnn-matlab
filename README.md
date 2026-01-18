@@ -9,3 +9,5 @@ CNN tabanlı yüzey dokusu sınıflandırma (MATLAB)
 - `matlab`: MATLAB kodları ve deney dosyaları.
 - `results`: Çıktı görselleri ve sonuçlar.
 - `report`: Rapor ve dokümantasyon.
+
+MATLAB scriptleri `matlab/` klasoru altindadir.
